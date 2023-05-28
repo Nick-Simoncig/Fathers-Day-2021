@@ -3,15 +3,13 @@
 <head>
   <link rel="stylesheet" type="text/css" href="dad.css">
   <img src="Father.jpg" alt="Father">
-  <h1> Happy Father's Day </h1>
+  <h1> Nick Simoncig's CPG Portfolio </h1>
 
 <body>
 
-  <p> To all the amazing dads young and old ( especially mine), thank you!
+  <p> Omni & Field execution for the Walmart Pest
   </P>
-  <p> Your unwavering guidance and support throughout the years makes all the difference.  Today is your special day!
-  </P>
-  <img src="Father-5.jpg" alt="Father-2">
+  <img src="Raid Sidekick.jpg" alt="Raid">
   <p> " The heart of a father is the masterpiece of nature."
   </P>
   <img src="father-2.jpg" alt="Father-3">

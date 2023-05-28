@@ -2,7 +2,6 @@
 
 <head>
   <link rel="stylesheet" type="text/css" href="dad.css">
-  <img src="Nick.jpg" alt="Nick">
   <h1> Nick Simoncig's CPG Portfolio </h1>
 
 <body>
